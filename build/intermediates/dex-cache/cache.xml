@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jayagopi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ee29a0b6347873fbcdb6fba945396b8ccb1606e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6696f1eb1d7eb5e613389198268a5771b6e623fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\pre-dexed\debug\classes-d3661cb97698994de9cd4855a4005f9418c40934.jar" />
+    </item>
+    <item
+        jar="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\jayagopi\AndroidStudioProjects\FiveCard2\app\build\intermediates\pre-dexed\debug\classes-00cf02fd6a8d5c6cb77dc9ffd3df29bcfb4e4b92.jar" />
+    </item>
+
+</items>
