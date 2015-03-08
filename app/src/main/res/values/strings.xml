@@ -39,4 +39,10 @@
     <string name="title_activity_change_name">Change My Name</string>
     <string name="title_activity_game">Five Card</string>
     <string name="game_page">Main Game Activity</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="pick_deck">Pick Deck</string>
+    <string name="pick_open">Pick Open</string>
+    <string name="title_activity_test">TestActivity</string>
+
 </resources>

@@ -1,21 +1,15 @@
 package com.labs.nakama.fivecard;
 
 import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.CheckBox;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 
 public class Settings extends Activity {
@@ -44,7 +38,7 @@ public class Settings extends Activity {
                 // Add more planets. If you passed a String[] instead of a List<String>
                 // into the ArrayAdapter constructor, you must not add more items.
                 // Otherwise an exception will occur.
-                listAdapter.add("Player 3");
+                listAdapter.add("Test");
                 listAdapter.add("Player 4");
 
                 // Set the ArrayAdapter as the ListView's adapter.
@@ -62,6 +56,11 @@ public class Settings extends Activity {
                                 intent = new Intent(getApplicationContext(), ChangeName.class);
                                 startActivity(intent);
                                 break;
+                            case 1:
+                                break;
+                            case 2:
+                                intent = new Intent(getApplicationContext(), TestActivity.class);
+                                startActivity(intent);
                             default:
                         }
                     }
